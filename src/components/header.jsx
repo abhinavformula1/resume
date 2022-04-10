@@ -1,10 +1,17 @@
 import React from "react";
 
-const Navbar = () => {
+const Header = () => {
   return (
-    <div>
-        
+    <div >
+      <ul>
+        <li>
+          Abhinav Kumar
+        </li>
+        <li>
+        abhinavformula1@gmail.com
+        </li>
+      </ul>
     </div>
   );
 };
-export default Navbar;
+export default Header;
