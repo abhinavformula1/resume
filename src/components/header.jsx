@@ -1,10 +1,14 @@
 import React from "react";
-import { Container } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const Header = () => {
   return (
-    <Container></Container>
+    <Navbar bg="dark" variant="dark">
+      <Navbar.Brand>
+        Abhinav Kumar
+      </Navbar.Brand>
+    </Navbar> 
   )
 }
 export default Header;
