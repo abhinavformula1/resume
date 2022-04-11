@@ -3,6 +3,7 @@ import Certifcations from './components/certifications'
 import Experiences from './components/experiences'
 import Summary from './components/professionalSummary'
 import Skills from './components/technicalSkills'
+import ProjectsSummary from './components/projectsSummary'
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
       <Experiences/>
       <Summary/>
       <Skills/>
+      <ProjectsSummary/>
       <Certifcations/>
     </div>
   );
