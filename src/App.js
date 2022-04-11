@@ -4,6 +4,8 @@ import Experiences from './components/experiences'
 import Summary from './components/professionalSummary'
 import Skills from './components/technicalSkills'
 import ProjectsSummary from './components/projectsSummary'
+import Responsibilities from './components/responsibilities'
+
 
 export default function App() {
   return (
@@ -13,6 +15,7 @@ export default function App() {
       <Summary/>
       <Skills/>
       <ProjectsSummary/>
+      <Responsibilities/>
       <Certifcations/>
     </div>
   );
