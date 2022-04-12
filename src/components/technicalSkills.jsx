@@ -5,12 +5,11 @@ const Skills = () => {
     <div>
       <h1>Technical Skills</h1>
       <div>
-        <h3>
-          Force.com: Salesforce Declarative & Customization (Validation Rules,
+        <h3>Force.com:</h3>
+          <p>Salesforce Declarative & Customization (Validation Rules,
           Flow, Process Builder, Platform Event, Custom Setting, Custom
           Metadata, Trigger, Asynchronous Apex Batch, Queueable, Schedule), Apex
-          Rest Service, Lightning Web Components, Lightning Design System)
-        </h3>
+          Rest Service, Lightning Web Components, Lightning Design System)</p>
       </div>
       <div>
         <h3>
