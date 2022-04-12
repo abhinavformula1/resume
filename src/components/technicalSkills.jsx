@@ -12,7 +12,7 @@ const Skills = () => {
           Rest Service, Lightning Web Components, Lightning Design System)</p>
       </div>
       <div>
-        <h3>Apttus CPQ : </h3>
+        <h3>Apttus CPQ:</h3>
         <p>
         Product, Pricing, Approvals, Constraint Rules, PAR, AVM,
         Deal Guidance, Multi-Currency, Templates, X-Author Apps (Product,
@@ -20,16 +20,18 @@ const Skills = () => {
         </p>
       </div>
       <div>
-        <h3>Community : Partner, Community</h3>
+        <h3>Community:</h3>
+        <p>Partner, Community</p>
       </div>
       <div>
-        <h3>Languages : Apex, JavaScript</h3>
+        <h3>Languages:</h3>
+        <p>Apex, JavaScript</p>
       </div>
       <div>
         <h3>
-          Tools : VS Code, SOAP UI, Data Loader, Talend OS for DI, Git, Github,
-          Bitbucket, Jenkins
-        </h3>
+          Tools:</h3>
+        <p>VS Code, SOAP UI, Data Loader, Talend OS for DI, Git, Github,
+          Bitbucket, Jenkins</p>
       </div>
     </div>
   );
