@@ -5,9 +5,9 @@ const Responsibilities = () => {
     <div >
       <h1>Responsibilities</h1>
       <div>
-          <h3>Analyzing business requirements</h3>
-          <h3>Mapping requirement feasibility with technology.</h3>
-          <h3>Development of the requirements including </h3>
+          <p>Analyzing business requirements</p>
+          <p>Mapping requirement feasibility with technology.</p>
+          <p>Development of the requirements including </p>
           <div>
               <h3>Configurations:</h3>
               <p>
