@@ -14,7 +14,7 @@ const Responsibilities = () => {
               Configured (Bundle/Option/Standalone) Products,
               Price List, PLI, Price Matrix, Price Rule set,
               Constraint Rules, PAR, AVM, Deal Guidance,
-              Approve Process, Multi-Currency, Flow, Process Builder,
+              Approval Process, Multi-Currency, Flow, Process Builder,
               Platform Event, Custom Setting, Custom Metadata, and others.
               </p>
           </div>
