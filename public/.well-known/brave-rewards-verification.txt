@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: abhinavformula1.herokuapp.com
+Token: aeb74c2b875f98399dce0502684b260471845c95cc8a636ab104add915ea00c2
