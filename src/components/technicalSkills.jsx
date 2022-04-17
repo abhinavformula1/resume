@@ -16,7 +16,7 @@ const Skills = () => {
         <p>
         Product, Pricing, Approvals, Constraint Rules, PAR, AVM,
         Deal Guidance, Multi-Currency, Templates, X-Author Apps (Product,
-        Template, Approval)
+        Template, Approvals)
         </p>
       </div>
       <div>
