@@ -10,7 +10,7 @@ const Certifcations = () => {
         <p>Salesforce Admin</p>
         <p>Salesforce App Builder</p>
         <p>Salesforce Platform Developer 1</p>
-        <p>IBM Blockchain Essential</p>
+        <p>IBM Blockchain Essentials</p>
         <p>IBM Blockchain Developer</p>
       </div>
     </div>
