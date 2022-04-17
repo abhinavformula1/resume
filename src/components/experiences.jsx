@@ -6,7 +6,7 @@ const Experiences = () => {
       <h1>Professional Experience</h1>
       <div>
         <p>
-          Worked with Mindtree limited from July 2013 till April 2016 as Software Engineer.
+          Worked with Mindtree ltd from July 2013 till April 2016 as Software Engineer.
         </p>
         <p>
           Worked with Cognizant from May 2016 till April 2017 as Software Engineer.
